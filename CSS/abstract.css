@@ -1,0 +1,62 @@
+#painting	{
+	background-color: #fff4db;
+	width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#toprow	{
+	height: 200px;
+}
+#secondrow	{
+	height: 10px;
+}
+#thirdrow	{
+	height: 100px;
+}
+.blue	{
+	background-color: blue;
+}
+.red	{
+	background-color: red;
+}
+.purple	{
+	background-color: purple;
+}
+.yellow	{
+	background-color: yellow;
+}
+.black	{
+	background-color: black;
+}
+#divider1	{
+	height: 200px;
+	width: 10px;
+}
+#divider2	{
+
+}
+#bigbox	{
+	height: 200px;
+	width: 250px;
+}
+.mediumbox	{
+	height: 75px;
+	width: 140px;
+}
+.middlebox	{
+	height: 115px;
+	width: 140px;
+}
+#topleftcolumn	{
+	height: 250px;
+}
+#divider2	{
+	height: 10px;
+	width:140px;
+}
+.right 	{
+	float: right;
+}
