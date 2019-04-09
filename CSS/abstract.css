@@ -11,10 +11,18 @@
 	height: 200px;
 }
 #secondrow	{
+	width: 400px;
 	height: 10px;
 }
 #thirdrow	{
-	height: 100px;
+	height: 75px;
+}
+#fourthrow	{
+	height: 10px;
+	width: 400px;
+}
+#row5	{
+	height: 105px;
 }
 .blue	{
 	background-color: blue;
@@ -35,12 +43,14 @@
 	height: 200px;
 	width: 10px;
 }
-#divider2	{
 
-}
 #bigbox	{
 	height: 200px;
 	width: 250px;
+}
+#bigbox3	{
+	height: 105px;
+	width: 300px;
 }
 .mediumbox	{
 	height: 75px;
@@ -50,12 +60,43 @@
 	height: 115px;
 	width: 140px;
 }
+.bigbox2	{
+	width: 250px;
+	height: 75px;
+}
+.smallbox2	{
+	height: 48px;
+	width: 90px;
+}
+.smallbox3	{
+	height: 47px;
+	width: 90px;
+}
 #topleftcolumn	{
-	height: 250px;
+	height: 200px;
+}
+#middleleftcolumn	{
+	height: 75px;
 }
 #divider2	{
 	height: 10px;
 	width:140px;
+}
+#divider3	{
+	height: 75px;
+	width: 10px;
+}
+#divider4	{
+	height: 105px;
+	width: 10px;
+}
+#divider5	{
+	width: 10px;
+	height: 105px;
+}
+#divider6	{
+	width: 90px;
+	height: 10px;
 }
 .right 	{
 	float: right;

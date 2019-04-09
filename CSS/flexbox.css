@@ -1,0 +1,40 @@
+.wrapper	{
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1	{
+	text-align: center;
+}
+.column1	{
+	float: left;
+	width: 45%;
+}
+.column2	{
+	float: right;
+	width: 45%;
+}
+.cleared	{
+	display: flow-root;
+}
+.flex-container	{
+	display: flex;
+	background-color: green;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 37px;
+
+}
+.flex-container > div {
+	background-color: purple;
+	padding: 10px;
+	margin: 10px;
+}
+img	{
+	width: 300px;
+	float: right;
+	border: black 5px dashed;
+}
+.img2	{
+	width: 150px;
+}

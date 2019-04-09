@@ -1,0 +1,17 @@
+body	{
+	background-color: red;
+}
+h1	{
+	color: yellow;
+	text-align: center;
+	font-size: 72px;
+}
+h2	{
+	text-decoration: underline;
+	color: yellow;
+	font-size: 40px;
+}
+p	{
+	color: white;
+	font-size: 28px;
+}

@@ -1,0 +1,65 @@
+.wrapper		{
+	width: 80%;
+	margin: 0 auto;
+	background-color: tan;
+}
+body	{
+	background-color: tan;
+}
+.img1	{
+	width: 80%;
+}
+img 	{
+	width: 250px;
+
+}
+p 	{
+	color: white;
+}
+.img2	{
+	border: 5px yellow solid;
+}
+.bp	{
+	text-align: center;
+}
+
+h1	{
+	text-align: center;
+}
+h2	{
+	text-decoration: underline;
+	color: yellow;
+}
+.columnleft	{
+	float: left;
+	width: 45%;
+	background-color: red;
+	padding-right: 50px;
+	padding-bottom: 90px;
+}
+.columnright {
+	float: right;
+	width: 45%;
+	background-color: red;
+	padding-left: 49px;
+}
+.flex-container	{
+	display: flex;
+	background-color: yellow;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.flex-container > div {
+	background-color: red;
+	padding: 10px;
+	margin: 10px;
+}
+.right	{
+	float: right;
+}
+.cleared	{
+	display: flow-root;
+}
+footer	{
+	text-align: center;
+}

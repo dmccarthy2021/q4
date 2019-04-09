@@ -1,0 +1,40 @@
+#painting	{
+	background-color: #F90733;
+	width: 1300px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right 	{
+	float: right;
+}
+.img1	{
+	height: 350px;
+	width: 350px;
+}
+.toprow	{
+	height: 800px;
+	width: 400px;
+}
+.bottomrow	{
+	height: 800px;
+	width: 400px;
+}
+.column1	{
+	height: 800px;
+	
+}
+.img2	{
+	height: 500px;
+	width: 500px;
+}
+.left 	{
+	float: left;
+}
+.cleared		{
+	display: flow-root;
+}
+body	{
+	background-color: blue;
+}
