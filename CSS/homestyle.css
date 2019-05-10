@@ -1,0 +1,95 @@
+.wrapper	{
+	width: 95%;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #F3BC10 ;
+}
+.flex-container	{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.center	{
+	text-align: center;
+}
+.head	{
+	border: 2px black solid;
+}
+.c1	{
+	flex: 1;
+	border: 2px black solid;
+}
+.c2	{
+	flex: 2;
+	border-top: 2px black solid;
+	border-bottom: 2px black solid;
+
+}
+.c3	{
+	flex: 1;
+	border: 2px black solid;
+}
+h1	{
+	text-align: center;
+	color: white;
+}
+.web	{
+	text-decoration: underline;
+	font-size: 40px;
+}
+img 	{
+	width: 300px;
+	border: 5px black solid;
+	margin: 10px;
+}
+.img2	{
+	width: 1185px;
+	height: 200px;
+	margin: 0;
+	border: none;
+}
+p	{
+	font-size: 20px;
+}
+.cleared	{
+	display:flow-root;
+}
+.left	{
+	float: left;
+}
+a	{
+	border: 2px black solid;
+	padding: 5px;
+	margin:5px;
+	background-color: #09DEF0;
+	display: block;
+	font-size: 26px;
+	text-decoration: none;
+}
+.a1	{
+	border: 2px black solid;
+	display: inline;
+}
+.center	{
+	text-align: center;
+}
+nav	{
+	text-align: center;
+}
+.border 	{
+	border: 2px black solid;
+}
+a:link	{
+	color: #F10C0C;
+}
+a:hover	{
+	color: #EE840D;
+}
+a:visited	{
+	color: black;
+}
+a:active	{
+	color: #F1EA00;
+}

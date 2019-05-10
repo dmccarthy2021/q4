@@ -1,0 +1,38 @@
+.bphoto		{
+	background-image: url(../images/shark.gif);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+.bphoto h1	{
+	font-size: 60px;
+	margin-bottom: 30px;
+}
+.button	{
+	text-decoration: none;
+	font-size: 40px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	color: #3EF009;
+	text-transform: uppercase;
+}
+.button2	{
+	color: #3EF009;
+	font-size: 40px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: rgba(227, 4, 149, .4);
+	border-radius: 10px;
+	text-transform: uppercase;
+}
+a:hover {
+	color: #1A50EA;
+	background-color: #F6FA03;
+}
