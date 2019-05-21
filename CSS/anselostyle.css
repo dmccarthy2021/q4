@@ -1,0 +1,142 @@
+.img1	{
+	width: 1250px;
+}
+img 	{
+	width: 200px;
+}
+.alan	{
+	width: 125px;
+	float: left;
+	border: white 1px solid;
+	padding: 10px;
+}
+hr	{
+	size: 40px;
+	color: #ec7e38;
+	border-color: #ec7e38;
+}
+.half	{
+	float: right;
+	width: 450px;
+	border: 2px #ec7e38 solid;
+	margin-left: 10px;
+}
+.cleared	{
+	display: flow-root;
+}
+.bphoto	{
+	background-image: url(../images/aspensbig.jpg);
+	height: 60vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+}
+.flex-container	{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: #4f4e4d;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.flex-container > div {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color: white;
+}
+
+.button	{
+	text-decoration: none;
+	font-size: 60px;
+	padding: 10px;
+	background-color: rgba(250,255 ,255 ,.5);
+}
+.flex-container2	{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.flex3	{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.flex4	{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.footl	{
+	flex: 1;
+	text-align: center;
+	
+}
+.footr	{
+	flex: 1;
+	text-align: center;
+}
+footer	{
+	border-top: 1px black solid;
+	border-bottom: 1px black solid;
+}
+.anseltech 	{
+	color: #ec7e38;
+	text-align: center;
+}
+.c1	{
+	background-color: #ec7e38;
+	flex: 1;
+	text-align: center;
+}
+.c2 	{
+	background-color: #e8834b;
+	flex: 1;
+	text-align: center;
+}
+.c3	{
+	background-color: #e89160;
+	flex: 1;
+	text-align: center;
+}
+.c4	{
+	background-color: #e89d74;
+	flex: 1;
+	text-align: center;
+}
+.cleft	{
+	float: left;
+	width: 50%;
+}
+.cright	{
+	float: right;
+	width: 50%;
+}
+.vr	{
+	width: 2px;
+	background-color: #000;
+	position: absolute;
+	top: 2300px;
+	bottom: 0px;
+	align-content: center;
+	height: 70px;
+}
+.a1:link	{
+	color: white;
+	text-decoration: none;
+}
+.a1:hover	{
+	color: white;
+	background-color: #ec7e38;
+}
+.a1:visited	{
+	color: #e89d74;
+}
+.a1:active {
+	color: white;
+}
