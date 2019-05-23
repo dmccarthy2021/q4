@@ -55,3 +55,18 @@ p 	{
 	font-size: 30px;
 	color: #ec7e38;
 }
+@media screen and (max-width: 600px) {
+	.flex-container 	{
+		flex-direction: column;
+		text-align: center;
+	}
+	p 	{
+		font-size: 20px;
+	}
+	img 	{
+		width: 200px;
+	}
+	.img1	{
+		width: 525px;
+	}
+}
